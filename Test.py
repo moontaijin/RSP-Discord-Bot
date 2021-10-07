@@ -3,7 +3,7 @@ import discord
 
 client = discord.Client()
 
-token = "NTI5OTU2ODIxNzQ2ODQzNjY4.Dw4dlg.CnqssOpeLoEMKw-Az4GokOrPWMY"
+token = "TOKEN HERE"
 
 @client.event
 
